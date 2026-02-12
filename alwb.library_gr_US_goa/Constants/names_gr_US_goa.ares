@@ -12,6 +12,7 @@ name.sample.relic1.name = "(like relic1or2, when group of saints is divided into
 name.sample.relic2.name = "(like relic1or2, when group of saints is divided into three)"
 name.sample.relic3.name = "(\"καὶ\" full name of saint in genitive with lowercase article and comma)"
 
+name.NA.localchurch.title = ""
 name.NA.localsaint1.supplication = ""
 name.NA.localsaint1.dismissal = ""
 name.NA.consecration.greatlitany.finalpetition.name = ""
@@ -74,6 +75,11 @@ name.george.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγ
 
 name.haralambos.relic1or2.name = "τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
 name.haralambos.relic3.name = "καὶ τοῦ ἁγίου ἐνδόξου Ἱερομάρτυρος Χαραλάμπους τοῦ Θαυματουργοῦ,"
+
+name.holycross.localchurch.title = "Τοῦ Τιμίου Σταυροῦ."
+name.holycross.conVE.SticBoth.churchname.text = "τοῦ Τιμίου Σταυροῦ,"
+name.holycross.consecration.name = "τοῦ Τιμίου Σταυροῦ,"
+name.holycross.consecration.prayer1 = "τοῦ Τιμίου Σταυροῦ,"
 
 name.holytrinity.localchurch.title = "Τῆς Πεντηκοστῆς."
 name.holytrinity.conVE.SticBoth.churchname.text = "τῆς Ἁγίας Τριάδος,"
