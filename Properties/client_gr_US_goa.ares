@@ -31,6 +31,12 @@ cl.bishop2.fimi.text =
 //cl.double_commemoration.bishop1and2 = //blank or yes
 cl.fimi.bishop1 = "yes" //blank or yes
 
+//Ordination parts in eu.ordination
+cl.ordinand.deacon.acc.text = "(δεῖνα)"
+cl.ordinand.deacon.gen.text = "(δεῖνος)"
+cl.ordinand.priest.acc.text = "(δεῖνα)"
+cl.ordinand.priest.gen.text = "(δεῖνος)"
+
 cl.monastery1_c = "," //abbot
 cl.monastery2_c = "," //elder
 cl.monastery1_p = "."
