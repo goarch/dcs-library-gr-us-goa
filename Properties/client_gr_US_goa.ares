@@ -21,11 +21,14 @@ cl.bishop1.name_co = "(δεῖνος):"
 cl.bishop1.name_sc = "(δεῖνος)·"
 cl.bishop1.name_p = "(δεῖνος)." //period
 cl.bishop1.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
+cl.bishop1.away_fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
 
-cl.bishop2.rank = "καὶ" // for double commemoration or guest
-cl.bishop2.name_c = "καὶ"
-cl.bishop2.name_p = "καὶ"
-cl.bishop2.fimi.text = 
+cl.bishop2.rank = "καὶ τοῦ [rank] ἡμῶν" // for double commemoration or guest
+cl.bishop2.name_c = "(δεῖνος),"
+cl.bishop2.name_co = "(δεῖνος):"
+cl.bishop2.name_sc = "(δεῖνος)·"
+cl.bishop2.name_p = "(δεῖνος)."
+cl.bishop2.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
 
 //Set these options here to effect client generation
 //cl.double_commemoration.bishop1and2 = //blank or yes
@@ -46,12 +49,12 @@ cl.localpatronsaint1.supplication = "(τοῦ ἁγίου τοῦ ναοῦ)·"
 cl.localpatronsaint1.dismissal = "(τοῦ ἁγίου τοῦ ναοῦ)·"
 cl.localpatronsaint1.greatcompline = "(Ὁ ἅγιος τοῦ ναοῦ), πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν."
 
-cl.localchurch.title = "(Τοῦ Ναοῦ)."
+cl.localchurch.title = ""
 
-cl.Apolytikion1.title = "Ἀπολυτίκιον τοῦ Ναοῦ."
-cl.Apolytikion1.mode = "[Ἦχος .]"
-cl.Apolytikion1.melody = "[Αὐτόμελον.]"
-cl.Apolytikion1.text = "[Κείμενον τοῦ Ἀπολυτικίου.]"
+cl.Apolytikion1.title = ""
+cl.Apolytikion1.mode = ""
+cl.Apolytikion1.melody = ""
+cl.Apolytikion1.text = ""
 
 cl.Kontakion1.title = "Κοντάκιον τοῦ Ναοῦ."
 cl.Kontakion1.mode = 
