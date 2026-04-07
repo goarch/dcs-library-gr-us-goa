@@ -28,7 +28,7 @@ cl.bishop2.name_c = "(δεῖνος),"
 cl.bishop2.name_co = "(δεῖνος):"
 cl.bishop2.name_sc = "(δεῖνος)·"
 cl.bishop2.name_p = "(δεῖνος)."
-cl.bishop2.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
+cl.bishop2.fimi.text = ""
 
 //Set these options here to effect client generation
 //cl.double_commemoration.bishop1and2 = //blank or yes
@@ -39,6 +39,12 @@ cl.ordinand.deacon.acc.text = "(δεῖνα)"
 cl.ordinand.deacon.gen.text = "(δεῖνος)"
 cl.ordinand.priest.acc.text = "(δεῖνα)"
 cl.ordinand.priest.gen.text = "(δεῖνος)"
+
+cl.conVE.SticBoth.churchname.text = "(short name of church or saint in genitive with lowercase article and comma)"
+cl.consecration.name = "(full name of church or saint in genitive with lowercase article and comma)"
+cl.consecration.prayer1 = "(full name of church or saint in genitive with lowercase article and comma)"
+cl.consecration.greatlitany.finalpetition.name = "(\"καὶ\" short name of saint in genitive with lowercase article and comma)"
+cl.relic_saints.text = "(full name of each saint in genitive with lowercase articles and comma)"
 
 cl.monastery1_c = "," //abbot
 cl.monastery2_c = "," //elder
@@ -60,11 +66,6 @@ cl.Kontakion1.title = "Κοντάκιον τοῦ Ναοῦ."
 cl.Kontakion1.mode = 
 cl.Kontakion1.melody = 
 cl.Kontakion1.text = "(Τὸ Κοντάκιον τοῦ Ναοῦ.)"
-
-cl.conVE.SticBoth.churchname.text = "(ὄνομα τοῦ ναοῦ),"
-cl.consecration.name = "(ὄνομα τοῦ ναοῦ),"
-cl.consecration.prayer1 = "(ὄνομα τοῦ ναοῦ),"
-cl.consecration.greatlitany.finalpetition.name = "(καὶ τοῦ ἁγίου τοῦ ναοῦ)"//(καὶ ὄνομα ἁγίου τοῦ Ναοῦ)
 
 cl.localpatronsaint2.supplication = "(τοῦ παρεκκλησίου)·"
 cl.localpatronsaint2.dismissal = "(τοῦ παρεκκλησίου)·"
