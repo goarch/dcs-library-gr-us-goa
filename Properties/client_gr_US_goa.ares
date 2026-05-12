@@ -9,12 +9,16 @@ cl.email =
 cl.website = 
 
 cl.bishop0.title = ""
-cl.bishop0.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν" //the superior of the local hierarch
+cl.bishop0.rank = "τοῦ Ἀρχιεπισκόπου καὶ Πατριάρχου ἡμῶν" //the superior of the local hierarch
 cl.bishop0.name_c = "(δεῖνος)," //comma
 cl.bishop0.name_co = "(δεῖνος):"
 cl.bishop0.name_sc = "(δεῖνος)·"
 cl.bishop0.name_p = "(δεῖνος)." //period
-cl.bishop0.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
+cl.bishop0.fimi.text = "(Ἡ φήμη τοῦ Πατριάρχου.)"
+cl.bishop0.name.petitionC = "τοῦ Ἀρχιεπισκόπου καὶ Πατριάρχου ἡμῶνν (δεῖνος),"
+cl.bishop0.name.petitionP = "τοῦ Ἀρχιεπισκόπου καὶ Πατριάρχου ἡμῶν (δεῖνος)."
+cl.bishop0.name.entrance = "Τοῦ Ἀρχιεπισκόπου καὶ Πατριάρχου ἡμῶν (δεῖνος),"
+cl.bishop0.name.commemoration = "τοῦ Ἀρχιεπισκόπου καὶ Πατριάρχου ἡμῶν (δεῖνος),"
 
 cl.bishop1.title = ""
 cl.bishop1.rank = "τοῦ Ἀρχιεπισκόπου ἡμῶν"
@@ -24,6 +28,10 @@ cl.bishop1.name_sc = "(δεῖνος)·"
 cl.bishop1.name_p = "(δεῖνος)." //period
 cl.bishop1.fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
 cl.bishop1.away_fimi.text = "(Ἡ φήμη τοῦ Ἀρχιερέως.)"
+cl.bishop1.name.petitionC = "τοῦ Ἀρχιεπισκόπου ἡμῶν (δεῖνος),"
+cl.bishop1.name.petitionP = "τοῦ Ἀρχιεπισκόπου ἡμῶν (δεῖνος)."
+cl.bishop1.name.entrance = "Τοῦ Ἀρχιεπισκόπου ἡμῶν (δεῖνος),"
+cl.bishop1.name.commemoration = "τοῦ Ἀρχιεπισκόπου ἡμῶν (δεῖνος),"
 
 cl.bishop2.title = ""
 cl.bishop2.rank = "καὶ τοῦ [rank] ἡμῶν" // for double commemoration or guest
@@ -32,6 +40,9 @@ cl.bishop2.name_co = "(δεῖνος):"
 cl.bishop2.name_sc = "(δεῖνος)·"
 cl.bishop2.name_p = "(δεῖνος)."
 cl.bishop2.fimi.text = ""
+cl.bishop2.name.petitionC = "καὶ τοῦ Ἐπισκόπου ἡμῶν (δεῖνος),"
+cl.bishop2.name.petitionP = "καὶ τοῦ Ἐπισκόπου ἡμῶν (δεῖνος)."
+cl.bishop2.name.commemoration = "τοῦ Ἐπισκόπου ἡμῶν (δεῖνος),"
 
 //Set these options here to effect client generation
 //cl.double_commemoration.bishop1and2 = //blank or yes
