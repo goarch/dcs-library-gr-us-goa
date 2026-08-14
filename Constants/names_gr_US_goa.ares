@@ -125,3 +125,8 @@ name.savasfathers.relic3.name = "καὶ τῶν ἁγίων Ἀββάδων �
 name.spyridon.localsaint1.supplication = ""
 name.spyridon.localsaint1.dismissal = "τοῦ ἐν ἁγίοις Πατρὸς ἡμῶν Σπυρίδωνος, Ἐπισκόπου Τριμυθοῦντος, τοῦ Θαυματουργοῦ,"
 name.spyridon.localchurch.title = "Τοῦ ἁγίου Σπυρίδωνος."
+
+name.transfiguration.localchurch.title = "Τῆς Ἁγίας Μεταμορφώσεως."
+name.transfiguration.conVE.SticBoth.churchname.text = "τῆς σῆς ἁγίας Μεταμορφώσεως,"
+name.transfiguration.consecration.name = "τῆς Ἁγίας Μεταμορφώσεως,"
+name.transfiguration.consecration.prayer1 = "τῆς Ἁγίας Μεταμορφώσεως,"
