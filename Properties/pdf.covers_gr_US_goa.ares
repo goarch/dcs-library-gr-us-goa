@@ -44,3 +44,5 @@ matinsordinary.paschal.link.GE = "dcs.goarch.org/goa/dcs/p/b/matinsordinary/pasc
 matinsordinary.paschal.link.E = "dcs.goarch.org/goa/dcs/p/b/matinsordinary/paschal/en/bk.matinsordinary.paschal.pdf"
 matinsordinary.ascension.link.GE = "dcs.goarch.org/goa/dcs/p/b/matinsordinary/ascension/gr-en/bk.matinsordinary.ascension.pdf"
 matinsordinary.ascension.link.E = "dcs.goarch.org/goa/dcs/p/b/matinsordinary/ascension/en/bk.matinsordinary.ascension.pdf"
+
+coverlogo.link = "<img src='https://dcs.goarch.org/goa/dcs/img/goapdflogo.png' alt='GOA PDF Logo' class='sb_logo_img' />"
