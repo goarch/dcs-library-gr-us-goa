@@ -151,6 +151,7 @@ euCA.Ode3T.incipit = "Σὺ μόνη τοῖς ἐπὶ γῆς…"
 euCA.Ode3T.text = "Σὺ μόνη τοῖς ἐπὶ γῆς τῶν ὑπὲρ φύσιν ἀγαθῶν πρόξενος Μήτηρ Θεοῦ γέγονας· ὅθεν σοι τὸ Χαῖρε προσάγομεν."
 
 euMA.Ode3Kathisma1.mode = miscellanea_gr_redirects_goarch.misc.Mode4
+euMA.Ode3Kathisma1.greekmelody = he.a.m4_gr_redirects_goarch.heAU.TachyProkatalave.greekname
 euMA.Ode3Kathisma1.melody = he.a.m4_gr_redirects_goarch.heAU.TachyProkatalave.name
 euMA.Ode3Kathisma1.incipit = "…"
 euMA.Ode3Kathisma1.text = ""

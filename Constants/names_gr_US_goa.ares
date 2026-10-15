@@ -29,6 +29,14 @@ name.catherine.localsaint1.supplication = "τῆς ἁγίας Μεγαλομ�
 name.catherine.localsaint1.dismissal = "τῆς ἁγίας Μεγαλομάρτυρος καὶ πανσόφου Αἰκατερίνης,"
 name.catherine.localchurch.title = "Τῆς Ἁγ. Αἰκατερίνης."
 
+name.chrysostom.localsaint1.supplication = ""
+name.chrysostom.localsaint1.dismissal = "τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως, τοῦ Χρυσοστόμου,"
+name.chrysostom.localchurch.title = "Τοῦ Ἁγίου Ἰωάννου τοῦ Χρυσοστόμου."
+name.chrysostom.conVE.SticBoth.churchname.text = "τοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου,"
+name.chrysostom.consecration.name = "τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως, τοῦ Χρυσοστόμου,"
+name.chrysostom.consecration.prayer1 = "τοῦ ἐν ἁγίοις πατρὸς ἡμῶν Ἰωάννου, Ἀρχιεπισκόπου Κωνσταντινουπόλεως, τοῦ Χρυσοστόμου,"
+name.chrysostom.consecration.greatlitany.finalpetition.name = "καὶ τοῦ ἁγίου Ἰωάννου τοῦ Χρυσοστόμου,"
+
 name.constantine.localsaint1.supplication = "τῶν Ἁγίων ἐνδόξων, μεγάλων, θεοστέπτων καὶ Ἰσαποστόλων Βασιλέων, Κωνσταντίνου καὶ Ἑλένης,"
 name.constantine.localsaint1.dismissal = "τῶν Ἁγίων ἐνδόξων, μεγάλων, θεοστέπτων καὶ Ἰσαποστόλων Βασιλέων, Κωνσταντίνου καὶ Ἑλένης,"
 name.constantine.localchurch.title = "Τοῦ Ἁγ. Κωνσταντίνου."
