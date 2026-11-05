@@ -71,7 +71,7 @@ cl.localpatronsaint1.dismissal = "(τοῦ ἁγίου τοῦ ναοῦ)·"
 cl.localpatronsaint1.commemoration = "(τοῦ ἁγίου τοῦ ναοῦ)·"
 cl.localpatronsaint1.greatcompline = "(Ὁ ἅγιος τοῦ ναοῦ), πρέσβευε ὑπὲρ ἡμῶν τῶν ἁμαρτωλῶν."
 
-cl.localchurch.title = ""
+cl.localchurch.title = "Τοῦ Ναοῦ."
 
 cl.Apolytikion1.title = "title"
 cl.Apolytikion1.mode = "mode"
